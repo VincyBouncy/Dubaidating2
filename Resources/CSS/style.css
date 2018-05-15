@@ -245,6 +245,9 @@ span {
   .container {
     width: 100%;
   }
+  .product-container {
+    width:100%;
+  }
   /* Navbar */
   nav {
     display: block;
